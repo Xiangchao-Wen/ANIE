@@ -1,3 +1,7 @@
+## 💡 Overview
+
+Graph Neural Networks (GNNs) are vulnerable to adversarial attacks. Different from conventional defensive paradigms, we propose **Anchor Node Injection Enhancement (ANIE)**, an active paradigm that repurposes the offensive tactic of node injection into a structural defense. ANIE injects virtual "auxiliary anchor nodes" to stabilize the graph's spectral manifold through Dirichlet energy minimization.
+
 ## How to Run Experiments
 
 The framework is built around two primary execution scripts for different attack scenarios:
