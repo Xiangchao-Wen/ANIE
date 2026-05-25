@@ -90,8 +90,8 @@ If you find this repository useful in your research, please consider citing our 
 @inproceedings{wen2025anie,
   author    = {Xiangchao Wen and others},
   title     = {Graph Adversarial Defense with Virtual Spectral Anchor Injection},
-  booktitle = {Proceedings of the 31th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining},
-  year      = {2025},
+  booktitle = {Proceedings of the 32th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining},
+  year      = {2026},
   doi       = {10.5281/zenodo.20373158}
 }
 
